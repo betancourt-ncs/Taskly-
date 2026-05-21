@@ -83,4 +83,5 @@ Timestamp when the task was last modified
 Tasks are stored in tasks.json in the project directory, created automatically on first use.
 Task IDs are not reused after deletion.
 Multi-word descriptions should be wrapped in quotes: taskly add "Walk the dog"
+For more info visit https://roadmap.sh/projects/task-tracker
 
