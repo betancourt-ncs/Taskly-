@@ -1,4 +1,5 @@
-Taskly: A CLI Task Tracker
+Taskly: The CLI Task Tracker
+
 A simple command line task manager built with Python. Add, update, delete, and track the status of your tasks, all stored locally in a JSON file.
 
 
